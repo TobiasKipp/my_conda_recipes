@@ -1,0 +1,20 @@
+package:
+  name: udunits
+  version: 2.2.16
+
+source:
+  fn: udunits-2.2.16.tar.gz 
+  url: ftp://ftp.unidata.ucar.edu/pub/udunits/udunits-2.2.16.tar.gz
+
+build:
+  number: 0
+
+requirements:
+  build:
+    - expat
+  run:
+    - expat
+
+about:
+  home: http://www.unidata.ucar.edu/software/udunits/
+  license: Custom - Attribution and patent protection

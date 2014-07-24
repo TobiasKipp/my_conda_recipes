@@ -1,0 +1,14 @@
+package:
+  name: expat
+  version: 2.0.1
+
+source:
+  fn: expat-2.0.1.tar.gz 
+  url: http://downloads.sourceforge.net/project/expat/expat/2.0.1/expat-2.0.1.tar.gz
+
+build:
+  number: 0
+
+about:
+  home: http://expat.sourceforge.net/
+  license: MIT License

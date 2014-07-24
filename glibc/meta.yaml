@@ -1,0 +1,8 @@
+package:
+  name: glibc
+  version: 2.19
+
+source:
+  fn: glibc-2.19.tar.gz
+  url: http://mirror.netcologne.de/gnu/libc/glibc-2.19.tar.gz
+
